@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Gastón Ginestet</h1>
+<h1 align="center">Hi!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" width="30">, I'm Gastón Ginestet</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
 - 🔭 I’m currently working on [CodigoDelSur](https://www.codigodelsur.com/)

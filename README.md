@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
 - 🔭 I’m currently working at [CustomDevs LLC](https://www.customdevs.llc/)
-- 🌱 I previously worked at [CodigoDelSur](https://www.codigodelsur.com/)([@gginestet](https://github.com/gginestet)), and before that at [Snappler](https://www.snappler.com/)
+- 🌱 I previously worked at [CodigoDelSur](https://www.codigodelsur.com/) (as [@gginestet](https://github.com/gginestet)), and before that at [Snappler](https://www.snappler.com/)
 
 - 📫 How to reach me **gastonauginestet@gmail.com**
 

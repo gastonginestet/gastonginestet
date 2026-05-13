@@ -34,8 +34,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gastonginestet&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonginestet&layout=compact&theme=onedark&hide_border=true&count_private=true" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gastonginestet&show_icons=true&theme=onedark&hide_border=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonginestet&layout=compact&theme=onedark&hide_border=true" alt="Top languages" height="165"/>
 </p>
 
 <p align="center">

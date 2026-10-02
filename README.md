@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="assets/profile.jpg" alt="Gastón Ginestet" width="180"/>
-</p>
-
-<h1 align="center">Hi! I'm Gastón Ginestet</h1>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" width="30"> I'm Gastón Ginestet</h1>
 <h3 align="center">Full Stack Developer · Ruby on Rails · Backend focused · Argentina 🇦🇷</h3>
 
 <br/>
